@@ -1,4 +1,4 @@
-# Harjoitustyo-Ohjelmointi2
+# Reseptipankki
 Harjoitustyö Ohjelmointi 2 kurssille
 
 Harjoitustyössä piti työstää yksinkertainen tietokantaa käyttävä Java Web sovellus
